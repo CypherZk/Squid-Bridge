@@ -1,5 +1,5 @@
 {
-    "channelA": "853948048006185000",
-    "channelB": "497080413387489291",
-    "token": "ODY2OTI5NjgwNzYyMjczODAy.YPZtLg.iyu96az5oVu1CsmomsFiAnu-rvY"
+    "channelA": "[CHANNEL_ID_A]",
+    "channelB": "[CHANNEL_ID_B]",
+    "token": "[BOTH_AUTH_TOKEN]"
 }
